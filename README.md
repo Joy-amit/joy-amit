@@ -1,5 +1,5 @@
 # Hi, I'm Joy 👋  
-MBA Candidate @ Vanderbilt | Finance, Strategy, AI Infra
+MBA Candidate @ Vanderbilt | FinOps, AI Infra
 
 ### 💼 About Me
 - 🎓 MBA (Finance, Strategy, Ops & Analytics) @ Vanderbilt Owen  

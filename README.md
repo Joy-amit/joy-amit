@@ -6,4 +6,4 @@ MBA Candidate @ Vanderbilt | FinOps, AI Infra
 - 🧠 Interested in AI Infrastructure, Data Center Finance
 
 ### 🌐 Connect
-[LinkedIn](https://linkedin.com/in/joy-bhattacharjee) · [Email](mailto:jbamit26@gmail.com)
+[LinkedIn](https://linkedin.com/in/jbhattacharjee) · [Email](mailto:jbamit26@gmail.com)

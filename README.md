@@ -14,3 +14,6 @@ MBA Candidate @ Vanderbilt | FinOps, AI Infra
 | 0 |  4 | 0 |   0  | 0 |
 | 0 |  6 | 7 | text | 0 |
 | 5 |  8 | 0 |   8  | 0 |
+
+### Bio
+A quick brown fox jumps over the lazy dog

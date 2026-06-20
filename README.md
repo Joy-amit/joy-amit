@@ -1,8 +1,8 @@
 # Hi, I'm Joy 👋  
-MBA Candidate @ Vanderbilt | FinOps, AI Infra
+Private Markets | Investment Banking · Deal Strategy | AI Infra Research | Venture Scout
 
 ### 💼 About Me
-- 🎓 MBA (Finance, Strategy, Ops & Analytics) @ Vanderbilt Owen  
+- 🎓 MBA @ Vanderbilt Owen | Engg Grad | CFA L3 Candidate
 - 🧠 Interested in AI Infrastructure, Data Center Finance
 
 ### 🌐 Connect
